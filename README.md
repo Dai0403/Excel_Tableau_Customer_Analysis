@@ -1,8 +1,8 @@
-# KPMG_virtual_internship
+# Customer Analysis Using Excel and Tableau
 
 Sprocket Central Pty Ltd Customer Analysis
 
-This project is part of a virtual work experience program on Forage (https://www.theforage.com/)
+This project is part of a virtual work experience program on KPMG Virtual Internship on Forage (https://www.theforage.com/)
 
 
 
